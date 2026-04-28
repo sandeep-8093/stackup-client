@@ -1,4 +1,7 @@
 # StackupClient
+Hosted URls:
+client: https://stackup-client.vercel.app/
+server: https://stackup-server-sx4b.onrender.com
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.17.
 
